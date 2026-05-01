@@ -47,13 +47,7 @@ Users can:
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the app](YOUR_LIVE_LINK_HERE)
-
----
-
-## 📷 Screenshots
-
-(Add your screenshots here)
+👉 [Click here to view the app](file:///C:/Users/srima/.gemini/antigravity/scratch/voting-guide-app/index.html)
 
 ---
 
